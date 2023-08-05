@@ -1,0 +1,23 @@
+body{
+    background-color: burlywood;
+
+}
+.Tab{
+    color: white;
+    background-color: black;
+}
+.Val{
+    font-style: italic;
+    text-decoration: underline;
+}
+.marquee{
+    font-size: 200%;
+    background-color: black;
+    color: white;
+}
+.Td{
+    text-align: center;
+}
+.para{
+line-height-step: 1%;
+}
